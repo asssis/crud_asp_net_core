@@ -1,0 +1,9 @@
+C:\Users\asjus\projetos\EfCore\Dominio\bin\Debug\netstandard2.0\Dominio.deps.json
+C:\Users\asjus\projetos\EfCore\Dominio\bin\Debug\netstandard2.0\Dominio.dll
+C:\Users\asjus\projetos\EfCore\Dominio\bin\Debug\netstandard2.0\Dominio.pdb
+C:\Users\asjus\projetos\EfCore\Dominio\obj\Debug\netstandard2.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\asjus\projetos\EfCore\Dominio\obj\Debug\netstandard2.0\Dominio.AssemblyInfo.cs
+C:\Users\asjus\projetos\EfCore\Dominio\obj\Debug\netstandard2.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\asjus\projetos\EfCore\Dominio\obj\Debug\netstandard2.0\Dominio.dll
+C:\Users\asjus\projetos\EfCore\Dominio\obj\Debug\netstandard2.0\Dominio.pdb
+C:\Users\asjus\projetos\EfCore\Dominio\obj\Debug\netstandard2.0\Dominio.csprojAssemblyReference.cache

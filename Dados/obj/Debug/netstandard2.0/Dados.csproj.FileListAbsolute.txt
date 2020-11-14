@@ -1,0 +1,12 @@
+C:\Users\asjus\projetos\EfCore\Dados\bin\Debug\netstandard2.0\Dados.deps.json
+C:\Users\asjus\projetos\EfCore\Dados\bin\Debug\netstandard2.0\Dados.dll
+C:\Users\asjus\projetos\EfCore\Dados\bin\Debug\netstandard2.0\Dados.pdb
+C:\Users\asjus\projetos\EfCore\Dados\obj\Debug\netstandard2.0\Dados.csprojAssemblyReference.cache
+C:\Users\asjus\projetos\EfCore\Dados\obj\Debug\netstandard2.0\Dados.AssemblyInfoInputs.cache
+C:\Users\asjus\projetos\EfCore\Dados\obj\Debug\netstandard2.0\Dados.AssemblyInfo.cs
+C:\Users\asjus\projetos\EfCore\Dados\obj\Debug\netstandard2.0\Dados.csproj.CoreCompileInputs.cache
+C:\Users\asjus\projetos\EfCore\Dados\obj\Debug\netstandard2.0\Dados.dll
+C:\Users\asjus\projetos\EfCore\Dados\obj\Debug\netstandard2.0\Dados.pdb
+C:\Users\asjus\projetos\EfCore\Dados\bin\Debug\netstandard2.0\Dominio.dll
+C:\Users\asjus\projetos\EfCore\Dados\bin\Debug\netstandard2.0\Dominio.pdb
+C:\Users\asjus\projetos\EfCore\Dados\obj\Debug\netstandard2.0\Dados.csproj.CopyComplete

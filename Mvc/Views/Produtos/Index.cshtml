@@ -1,0 +1,40 @@
+﻿@model IEnumerable<Dominio.Entidades.Produto>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Produto</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Nome)
+            </th> 
+            <th>
+                Categoria
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nome)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Categoria.Nome)
+            </td>
+            <td>
+                <a asp-action="Editar" asp-route-id="@item.Id">Editar</a> | 
+                <a asp-action="Deletar" asp-route-id="@item.Id">Deletar</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
